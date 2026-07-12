@@ -1,5 +1,5 @@
 # walmart-sales-executive-report
-Walmart Sales Data Analysis &amp; Executive Dashboard
+Google Spreadsheet - Walmart Sales Data Analysis &amp; Executive Dashboard
 
 ## 📌 Project Overview & Documentation
 
