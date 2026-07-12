@@ -1,0 +1,44 @@
+,,,
+Ventas por metro cuadrado,,,
+,,,
+,,,
+,,,
+nombre_dept,SUM of ventas_semanales,AVERAGE of tamaño,SUM of ventasxmetro2
+Despensa y Básicos,"$85,052,985.88",130287.60,$652.81
+Comida Fresca,"$59,510,812.89",130287.60,$456.76
+Artículos del Hogar y Papel,"$58,876,083.76",130287.60,$451.89
+Salud y Bienestar,"$51,003,352.42",130287.60,$391.47
+Ropa,"$40,183,258.61",130757.44,$307.31
+Hogar y Temporada,"$37,849,580.53",130287.60,$290.51
+Cuidado del Bebé y la Familia,"$35,790,072.73",130287.60,$274.70
+Snacks y Bebidas,"$35,445,927.76",130287.60,$272.06
+Electrónica de Consumo,"$33,472,398.70",130287.60,$256.91
+Dept no encontrado,"$29,431,276.26",130287.60,$225.89
+Automotriz,"$27,336,093.56",130287.60,$209.81
+Cuidado de Mascotas,"$26,532,589.69",130287.60,$203.65
+Juguetes y Juegos,"$23,783,096.65",130287.60,$182.54
+"Oficina, Escuela y Manualidades","$8,187,798.52",130287.60,$62.84
+Jardín y Vida al Aire Libre,"5,956,192.62",138976.49,$42.86
+Grand Total,"$558,411,520.58",130850.62,"$4,267.55"
+,,,
+Participación del Departamento,,,
+,,,
+,,,
+,,,
+nombre_dept,SUM of ventas_semanales,,
+Despensa y Básicos,15.23%,,
+Comida Fresca,10.66%,,
+Artículos del Hogar y Papel,10.54%,,
+Salud y Bienestar,9.13%,,
+Ropa,7.20%,,
+Hogar y Temporada,6.78%,,
+Cuidado del Bebé y la Familia,6.41%,,
+Snacks y Bebidas,6.35%,,
+Electrónica de Consumo,5.99%,,
+Dept no encontrado,5.27%,,
+Automotriz,4.90%,,
+Cuidado de Mascotas,4.75%,,
+Juguetes y Juegos,4.26%,,
+"Oficina, Escuela y Manualidades",1.47%,,
+Jardín y Vida al Aire Libre,1.07%,,
+Grand Total,100.00%,,
